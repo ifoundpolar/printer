@@ -1,5 +1,7 @@
 <div align="center">
 
+## I am on linux now and i will not be duel booting so all roblox related things are no longer going to be updated
+
 # PRINTER
 
 I just wanted to learn more about cheat development beyond Luau, so I made this.  
